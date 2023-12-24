@@ -25,4 +25,4 @@ time()
 mainloop()
 
 #Developed in 2022 - Solo studio
-#Copyright © 2023 - Solo studio
+#SoloStudio
