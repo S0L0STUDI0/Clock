@@ -24,5 +24,5 @@ time()
 
 mainloop()
 
-#Developed in 2022 - Solo studio
+#Developed in 2022 - SoloStudio
 #SoloStudio
